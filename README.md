@@ -3,16 +3,19 @@
 Website resmi SedapGroup yang menyajikan informasi seputar platform digital dan hiburan online.
 
 🔗 Website resmi:
-https://sedapgroup.com
+Website resmi SedapGroup yang menyajikan informasi seputar platform digital dan hiburan online.
 
-Untuk informasi lengkap, silakan kunjungi 
-[Website resmi SedapGroup] (https://sedapgroup.com).
+🔗 Website resmi: https://sedapgroup.com  
+🔗 Informasi lengkap tersedia di https://sedapgroup.com  
 
 ---
 
 # Tentang Kami
-SEDAP168 adalah platform informasi digital yang membahas berbagai topik seputar hiburan online, teknologi permainan, dan pengalaman pengguna.
-Website ini dibuat sebagai media referensi bagi pengguna yang ingin mengenal lebih jauh berbagai jenis permainan digital, fitur yang tersedia, serta perkembangan dunia hiburan online secara umum.
+SedapGroup adalah platform informasi digital yang membahas berbagai topik seputar hiburan online, teknologi permainan, serta pengalaman pengguna.  
+Website ini dibuat sebagai media referensi bagi pengguna yang ingin mengenal lebih jauh berbagai jenis layanan digital dan perkembangan dunia hiburan online.
+
+Untuk detail lebih lanjut, silakan kunjungi  
+👉 [Website resmi SedapGroup](https://sedapgroup.com)
 
 ---
 
